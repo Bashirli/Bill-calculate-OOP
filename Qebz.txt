@@ -1,0 +1,6 @@
+
+////////////////////////////////////
+Istifadeci : Ghezzal
+ Istifade edilen kVt: Ayliq istifade edilen enerji (kVt ile)=368
+ Odenilecek mebleg: 32.5
+//////////////////////////////////
